@@ -3,3 +3,5 @@ This is the first feature of application.
 This is the bug fix in the development branch
 
 This a testing code
+
+Adding feature 4
