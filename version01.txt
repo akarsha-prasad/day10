@@ -5,3 +5,5 @@ This is the bug fix in the development branch
 This a testing code
 
 Adding feature 4
+
+Adding feature 5
